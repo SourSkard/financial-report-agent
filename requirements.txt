@@ -1,0 +1,11 @@
+sqlmodel==0.0.16
+sqlalchemy>=2.0.0
+pydantic>=1.10,<3
+typing_extensions>=4.6.0
+pytest>=7.4.0
+matplotlib>=3.8.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+pdfplumber>=0.11.0
+pypdf>=4.2.0
+camelot-py>=0.11.0
